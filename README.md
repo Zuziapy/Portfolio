@@ -16,8 +16,18 @@ Currently, I work as a marketing specialist in e-commerce company. My daily resp
 * Python basics
 * SQL
 ## Courses
+* QA maraton for begginers | GoIT
+* Bootcamp testerski - testowanie orpogramowania 2023 | Udemy
+* Praktyczne testowanie oprogramowania | Udemy
+* Certified Tester ISTQB Foundation Level | Udemy
 ## Books 
 * A. Roman - Certyfikowany tester ISTQB
 * R. Smilgin - Zawód tester
 ## Groups on Facebook
-*
+* Testuj Dziewczyno!
+* Testowanie oprogramowania - Materiały | Porady
+* Tester oprogramowania - wsparcie na starcie
+* ISTQB - egzaminy, pytania, testy
+## Events
+* IT Fest | 
+* 
