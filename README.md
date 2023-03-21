@@ -9,6 +9,7 @@ Currently, I work as a marketing specialist in e-commerce company. My daily resp
 * [Jira](https://www.atlassian.com) - Issue tracking and project management tool for developers
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Github](https://github.com)
+* [TestRail](https://www.gurock.com/testrail) - Making test cases
 ## Skills
 * Software testing
 * Creating test cases
