@@ -17,9 +17,10 @@ I would like to start my career as a junior software tester. I have two years of
 * SQL
 ## Courses
 * QA maraton for begginers (4 days) | GoIT
-* Bootcamp testerski - testowanie orpogramowania 2023 | Udemy
+* Bootcamp testerski - testowanie oprogramowania 2023 | Udemy
 * Praktyczne testowanie oprogramowania | Udemy
 * Certified Tester ISTQB Foundation Level | Udemy
+* 
 ## Books 
 * A. Roman - Certyfikowany tester ISTQB
 * R. Smilgin - Zawód tester (w trakcie)
