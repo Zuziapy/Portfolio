@@ -8,6 +8,7 @@ I would like to start my career as a junior software tester. I have two years of
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Github](https://github.com)
 * [TestRail](https://www.gurock.com/testrail) - Making test cases
+* Chrome console
 ## Skills
 * Software testing
 * Creating test cases
